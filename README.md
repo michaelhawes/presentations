@@ -13,7 +13,7 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
 
 ### 2025
 - Hawes, M. B. *Privacy, Confidentiality, and Statistical Purposes*, Administrative Data Research Conference (ADRCon), June 25, 2025. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2025/2025-06-25-ADRCon.pdf)\)
-- Keller, S. A., Hawes, M. B., Dorius, C., and Rogers, L. *The 2030 Census​ Disclosure Avoidance Research Program* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, June 23, 2025. \([slides]()\)
+- Keller, S. A., Hawes, M. B., Dorius, C., and Rogers, L. *The 2030 Census​ Disclosure Avoidance Research Program* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, June 23, 2025. \([slides](https://www2.census.gov/about/training-workshops/2025/2025-06-23-research-agenda-for-2030-census-disclosure-avoidance-system-presentation.pdf), [Recording](https://www.census.gov/data/academy/webinars/2025/research-agenda-for-2030-census-disclosure-avoidance-system.html)\)
 - Hawes, M. B. and Rogers, L. *A Principled Framework for Disclosure Avoidance* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, January 28, 2025. \([slides](https://www2.census.gov/about/training-workshops/2025/2025-01-28-principled-framework-for-disclosure-avoidance-presentation.pdf), [Recording](https://youtu.be/TGIm3ClfIfE)\)
 
 ### 2024
