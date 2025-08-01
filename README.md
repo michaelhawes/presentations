@@ -12,7 +12,7 @@ michael.b.hawes@census.gov
 Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019)
 
 ### 2025
-- Hawes, M. B. *AI Ethics in Official Statistics: Insights from the ASA and U.S. Federal Frameworks* (Presentation), Joint Statistical Meetings, August 3, 2025. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2025/2025-08-03-JSM.pdf)\)
+- Hawes, M. B. *AI Ethics in Official Statistics: Insights from the ASA and U.S. Federal Frameworks* (Presentation), Joint Statistical Meetings, August 4, 2025. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2025/2025-08-03-JSM.pdf)\)
 - Hawes, M. B. *Privacy, Confidentiality, and Statistical Purposes* (Presentation), Administrative Data Research Conference (ADRCon), June 25, 2025. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2025/2025-06-25-ADRCon.pdf)\)
 - Keller, S. A., Hawes, M. B., Dorius, C., and Rogers, L. *The 2030 Census​ Disclosure Avoidance Research Program* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, June 23, 2025. \([slides](https://www2.census.gov/about/training-workshops/2025/2025-06-23-research-agenda-for-2030-census-disclosure-avoidance-system-presentation.pdf), [recording](https://www.census.gov/data/academy/webinars/2025/research-agenda-for-2030-census-disclosure-avoidance-system.html)\)
 - Hawes, M. B. and Rogers, L. *A Principled Framework for Disclosure Avoidance* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, January 28, 2025. \([slides](https://www2.census.gov/about/training-workshops/2025/2025-01-28-principled-framework-for-disclosure-avoidance-presentation.pdf), [recording](https://www.census.gov/data/academy/webinars/2025/principled-framework-for-disclosure-avoidance.html)\)
@@ -93,7 +93,7 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
 
 ### Artificial Intelligence
 
-- Hawes, M. B. *AI Ethics in Official Statistics: Insights from the ASA and U.S. Federal Frameworks* (Presentation), Joint Statistical Meetings, August 3, 2025. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2025/2025-08-03-JSM.pdf)\)
+- Hawes, M. B. *AI Ethics in Official Statistics: Insights from the ASA and U.S. Federal Frameworks* (Presentation), Joint Statistical Meetings, August 4, 2025. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2025/2025-08-03-JSM.pdf)\)
 - Keller, S. A., Haase, K. and Hawes, M. B.  *AI and Official Statistics: Responsibly Leveraging Large Language Models in Support of Open Data* (Presentation), Joint Statistical Meetings, August 8, 2024. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2024/2024-08-08-JSM-AI.pdf)\)
 - Hawes, M. B. *Ethical Considerations of AI for the Federal Statistical System* (Presentation), National Academies of Science, Engineering and Medicine, Committee on National Statistics, AI Day for Federal Statistics, May 2, 2024. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2024/2024-05-02-CNSTAT-Ethics-AI.pdf)\)
 
