@@ -93,6 +93,7 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
 
 ### Artificial Intelligence
 
+- Hawes, M. B. *AI Ethics in Official Statistics: Insights from the ASA and U.S. Federal Frameworks* (Presentation), Joint Statistical Meetings, August 3, 2025. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2025/2025-08-03-JSM.pdf)\)
 - Keller, S. A., Haase, K. and Hawes, M. B.  *AI and Official Statistics: Responsibly Leveraging Large Language Models in Support of Open Data* (Presentation), Joint Statistical Meetings, August 8, 2024. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2024/2024-08-08-JSM-AI.pdf)\)
 - Hawes, M. B. *Ethical Considerations of AI for the Federal Statistical System* (Presentation), National Academies of Science, Engineering and Medicine, Committee on National Statistics, AI Day for Federal Statistics, May 2, 2024. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2024/2024-05-02-CNSTAT-Ethics-AI.pdf)\)
 
