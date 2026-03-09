@@ -12,6 +12,7 @@ michael.b.hawes@census.gov
 Go to: [2026](#2026) | [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019)
 
 ### 2026
+- Hawes, M. B. *Gold Standard Science, Communication, and Public Trust* (Presentation), Federal Committee on Statistical Methodology Research and Policy Conference, March 11, 2026. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2026/2026-03-11-FCSM-GSS.pdf)\)
 - Hawes, M. B. and Spence, M. *Updates on the 2030 Census Disclosure Avoidance Research Program* (Presentation), Applied Demography Conference, February 12, 2026. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2026/2026-02-11-ADC.pdf)\)
 - Hawes, M. B. and Keller, S. A. *The Evolution and Interpretation of "Statistical Purposes"* (Webinar), Social Data Science Center (SoDa), January 28, 2026. \([slides](https://socialdatascience.umd.edu/wp-content/uploads/2025/12/2026-01-28-ASA-Privacy-Day-Statistical-Purposes.pdf), [recording](https://socialdatascience.umd.edu/january-28-2026-asa-soda-symposium-in-celebration-of-privacy-week-with-dr-sallie-ann-keller-michael-b-hawes-and-alexandra-wood/)\)​
 
@@ -129,6 +130,7 @@ Go to: [2026](#2026) | [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2
 
 ### Official Statistics
 
+- Hawes, M. B. *Gold Standard Science, Communication, and Public Trust* (Presentation), Federal Committee on Statistical Methodology Research and Policy Conference, March 11, 2026. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2026/2026-03-11-FCSM-GSS.pdf)\)
 - Hawes, M. B. and Keller, S. A. *The Evolution and Interpretation of "Statistical Purposes"* (Webinar), Social Data Science Center (SoDa), January 28, 2026. \([slides](https://socialdatascience.umd.edu/wp-content/uploads/2025/12/2026-01-28-ASA-Privacy-Day-Statistical-Purposes.pdf), [recording](https://socialdatascience.umd.edu/january-28-2026-asa-soda-symposium-in-celebration-of-privacy-week-with-dr-sallie-ann-keller-michael-b-hawes-and-alexandra-wood/)\)
 - Hawes, M. B. *Privacy, Confidentiality, and Statistical Purposes* (Presentation), Administrative Data Research Conference (ADRCon), June 25, 2025. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2025/2025-06-25-ADRCon.pdf)\)
 - Hawes, M. B. and Rogers, L. *A Principled Framework for Disclosure Avoidance* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, January 28, 2025. \([slides](https://www2.census.gov/about/training-workshops/2025/2025-01-28-principled-framework-for-disclosure-avoidance-presentation.pdf), [recording]([https://www.census.gov/data/academy/webinars/2025/principled-framework-for-disclosure-avoidance.html)\)
